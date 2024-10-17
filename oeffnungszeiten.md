@@ -8,7 +8,7 @@ layout: page
 |------------|--------------|------------------------|
 | Montag     | 8:00 - 12:00 | 13:30 - 16:00          |
 | Dienstag   | 8:00 - 12:00 |                        |
-| Mittwoch   | 8:00 - 12:00 | Termine Psychotherapie |
+| Mittwoch   | 8:00 - 12:00 |                        |
 | Donnerstag | 8:00 - 12:00 | 13:30 - 18:00          |
 | Freitag    | 8:00 - 12:00 |                        |
 
