@@ -1,21 +1,24 @@
 main:
-  - name: "Services"
-    url: "/services/"
-    weight: 2
+  - name: "Termine"
+    url: "/termine/"
+    weight: 1
   - name: "Team"
     url: "/team/"
     weight: 3
-  - name: "About"
-    url: "/about/"
-    weight: 4
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Rezepte"
+    url: "/rezepte/"
+    weight: 2
+  - name: "Öffnungszeiten"
+    url: "/oeffnungszeiten/"
     weight: 5
+  - name: "Kontakt"
+    url: "/kontakt/"
+    weight: 6
 
 footer:
-  - name: "Home"
-    url: "/"
+  - name: "Impressum"
+    url: "/impressum/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
-    weight: 2
+#  - name: "Kontakt"
+#    url: "/kontakt/"
+#    weight: 2

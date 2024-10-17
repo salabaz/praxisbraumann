@@ -1,12 +1,15 @@
 ---
-title: Jekyll Serif Theme
+title: Hausarztpraxis Braumann
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+description: Ihre Hausarztpraxis
+#intro_image: "/images/IMG_20240913_121310_639.jpg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Herzlich Willkommen
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+in der Hausarztpraxis Jemina und Philipp Braumann.
+
+Wir freuen uns auf ihren Besuch.
+

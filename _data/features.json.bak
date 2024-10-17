@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Öffnungszeiten",
+    "description": "<table>
+                    <tr>
+                     <td>Mo - Fr&emsp;</td><td>&ensp;8.00 - 12.00</td>
+                    </tr> 
+                    <tr>
+                     <td>Mo</td><td>13.30 - 16.30</td>
+                    </tr> 
+                    <tr>
+                     <td>Do</td><td>13.30 - 18.00</td>
+                    </tr>
+                    </table>
+     		    ",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Sprechstunde",
+    "description": "
+			<table>
+		    <tr>
+                     <td>Mo - Fr&emsp;</td><td align='right'>8.30 - 12.00</td>
+                    </tr> 
+                    <tr>
+                     <td>Mo</td><td align='right'>14.00 - 16.30</td>
+                    </tr> 
+                    <tr>
+                     <td>Do</td><td align='right'>14.00 - 17.30</td>
+                    </tr>
+                    </table>
+                    ",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Kontakt",
+    "description": "	
+    
+    		<table> 
+		    <tr>
+                     <td  style='width:80px'>Telefon</td><td align='left'>08654 1619</td>
+                    </tr> 
+                    <tr>
+                     <td>Email</td><td align='left'>info@praxis-braumann.de</td>
+                    </tr> 
+                    <tr align='left'>
+                     <td valign='top'>Anschrift</td><td>Reichenhaller Straße 15<br> 83395 Freilassing</td>
+                    </tr>
+                </table>
+
+ ",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
