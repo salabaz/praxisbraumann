@@ -8,6 +8,7 @@ promoted: true
 weight: 1
 layout: team
 ---
+**Fachärztin für Allgemeinmedizin**
 
 - 2008 - 2014 Studium Humanmedizin, Universität Tampere, Finnland
 - 2014 – 2016 Ärztin in den Gesundheitszentren Mänttä-Vilppula und Seinäjoki, Finnland
