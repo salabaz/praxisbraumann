@@ -15,7 +15,3 @@ layout: page
 > Telefon: 08654 1619  
 > Email: info@praxis-braumann.de
 
-# Kontaktmöglichkeiten für Kollegen
-> KIM-Adresse: 
-
-
