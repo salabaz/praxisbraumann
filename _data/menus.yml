@@ -2,7 +2,7 @@ main:
   - name: "Termine"
     url: "/termine/"
     weight: 1
-  - name: "Team"
+  - name: "Ärzte"
     url: "/team/"
     weight: 3
   - name: "Rezepte"
