@@ -7,10 +7,10 @@ google_analytics_id: ""
 homepage:
   show_call_box: true
 
-#logo:
-#  mobile: ""
-#  desktop: ""
-#  desktop_height: "36px"
+logo:
+  mobile: ""
+  desktop: ""
+  desktop_height: "36px"
 
 footer:
   copyright_text: '&copy; Philipp Braumann'
