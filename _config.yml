@@ -1,5 +1,5 @@
 url: 'https://praxis-braumann.de'
-baseurl: '/'
+baseurl: '/.'
 permalink: pretty
 title: 'Hausarztpraxis Braumann'
 
