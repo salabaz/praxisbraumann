@@ -55,8 +55,8 @@ Normale Termine können sie bei Frau Braumann oder Herr Braumann buchen. Normale
 
 <details>
 	<summary><b>Erstvorstellung Neupatient</b></summary>
-	
+<pre>	
 Wenn sie in unsere Praxis wechseln wollen, möchten wir sie gerne kennen lernen. Nach Buchung des Termins bekommen sie einen Anamnesebogen zugesandt, de sie zu Hause oder in der Praxis ausfüllen können. Zudem bitten wir sie, alle Vorbefunde, Medikationspläne und den Impfausweis zum 	Termin mitzubringen. Wenn sie unter mehreren Krankheiten leiden oder mehr als 5 Medikamente einnehmen, lassen sie bitte ihre Unterlagen 1 Woche vor dem Termin in der Praxis einscannen. Die Ärzte können dann ihre Vorbefunde schon einmal durchschauen, um beim Termin ein besseres Bild 	von ihrer Krankheitsgeschichte zu haben.
- 
+</pre> 
 </details>
 
