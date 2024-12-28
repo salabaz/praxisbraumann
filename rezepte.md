@@ -33,4 +33,4 @@ Die kassenärztliche Vereinigung Bayerns stellt hierzu einige Informationsblätt
 - [Säureblocker (Protonenpumpenhemmer)](https://www.kvb.de/fileadmin/kvb/Patienten/Patienteninformationen/VO-Patientenhinweise-DS/KVB-PH-230509-Saeureblocker.pdf)
 - [Wunscharzneimittel oder "aut-idem"](https://www.kvb.de/fileadmin/kvb/Patienten/Patienteninformationen/VO-Patientenhinweise-DS/KVB-PH-240624-Aut-idem-Regelung.pdf)
 - [Vorrang von apothekenpflichtigen Medikamenten (z.B. Allergietabletten, Pilzmittel, Schmerzmittel)](https://www.kvb.de/fileadmin/kvb/Patienten/Patienteninformationen/VO-Patientenhinweise-DS/KVB-PH-190410-Switching.pdf)
-- [Verordnugen länger als 3 Monate](https://www.kvb.de/fileadmin/kvb/Patienten/Patienteninformationen/VO-Patientenhinweise-DS/KVB-PH-240624-Dauerverordnung-von-Arzneimitteln.pdf)
+- [Verordnungen länger als 3 Monate](https://www.kvb.de/fileadmin/kvb/Patienten/Patienteninformationen/VO-Patientenhinweise-DS/KVB-PH-240624-Dauerverordnung-von-Arzneimitteln.pdf)
