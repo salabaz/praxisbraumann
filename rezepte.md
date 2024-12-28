@@ -19,8 +19,8 @@ Geben Sie bitte immer
 - den Namen des Medikamentes und
 - die Dosierung an.  
 
-Herr oder Frau Braumann prüfen dann die Bestellungen und verschicken sie als eRezept. 
-Wenn etwas unklar ist, melden wir uns bei ihnen. Daher ist es wichtig, dass in der Praxis ihre aktuelle Telefonnummer hinterlegt ist.
+Herr oder Frau Braumann prüfen Ihre Bestellungen und verschicken sie anschließend als eRezept. 
+Wenn etwas unklar ist, melden wir uns bei Ihnen. Daher ist es wichtig, dass in der Praxis Ihre aktuelle Telefonnummer hinterlegt ist.
 
 Die Rezepte können am **folgenden Tag ab 13:00 Uhr** als eRezept in der Apotheke eingelöst werden.
 
