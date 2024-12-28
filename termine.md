@@ -11,7 +11,7 @@ Wir möchten die Wartezeiten für alle Patienten möchlichst kurz halten. Daher 
 Am Einfachsten erhalten sie einen Termin über unsere Online-Terminbuchung.  
 
  <div class="call-box-bottom">
-        <a href="https://www.termin-patmed.de/p/praxis-braumann" class="button">Zur Online-Terminbuchung</a>
+        <a href="{{ site.data.contact.contact_button_link }}" class="button">Zur Online-Terminbuchung</a>
       </div>  
 
   
