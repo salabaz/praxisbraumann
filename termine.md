@@ -14,8 +14,7 @@ Am Einfachsten erhalten sie einen Termin über unsere Online-Terminbuchung.
 <a href="{{ site.data.contact.contact_button_link }}" class="button button-primary">Zur Online-Terminbuchung</a>
 
 
-  
-<br>Alternativ können sie Termine auch telefonisch in der Praxis buchen.
+Alternativ können sie Termine auch telefonisch in der Praxis buchen.
 
 ### Notfälle
 	
