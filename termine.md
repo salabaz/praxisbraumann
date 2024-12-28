@@ -6,10 +6,12 @@ weight: 1
 layout: page
 ---
 
-Um die Wartezeiten für alle Patienten möglichst kurz zu halten, betreiben wir eine Terminsprechstunde. 
+Wir möchten die Wartezeiten für alle Patienten möchlichst kurz halten. Daher arbeiten wir nur mit Terminen.
 
-Bitte vereinbaren sie immer telefonisch einen Termin unter der Telefonnummer 08654 1619.
-In dringenden Fällen sind Termine kurzfristig möglich.
+[Zur Online-Terminbuchung](https://www.termin-patmed.de/p/praxis-braumann){: .btn}
 
+<details>
+	<summary>Akuttermine/summary>
+	Für akute Erkrankungen halten wir jeden Tag Termine zwischen 11.00 und 12.00 Uhr frei.
+</details>
 
-**Vielen Dank!**
