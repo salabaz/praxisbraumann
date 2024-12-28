@@ -12,23 +12,7 @@
                      <td>Do</td><td>13.30 - 18.00</td>
                     </tr>
                     </table>
-     		    "
-  },
-  {
-    "title": "Sprechstunde",
-    "description": "
-			<table>
-		    <tr>
-                     <td>Mo - Fr&emsp;</td><td align='right'>8.30 - 12.00</td>
-                    </tr> 
-                    <tr>
-                     <td>Mo</td><td align='right'>14.00 - 16.30</td>
-                    </tr> 
-                    <tr>
-                     <td>Do</td><td align='right'>14.00 - 17.30</td>
-                    </tr>
-                    </table>
-                    ",
+     		    ",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
