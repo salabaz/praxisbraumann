@@ -11,7 +11,7 @@ main:
   - name: "Öffnungszeiten"
     url: "/oeffnungszeiten/"
     weight: 5
- - name: "Urlaubszeiten"
+  - name: "Urlaubszeiten"
     url: "/urlaub/"
     weight: 6
   - name: "Kontakt"
