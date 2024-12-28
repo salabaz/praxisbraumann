@@ -6,7 +6,7 @@ weight: 1
 layout: page
 ---
 
-# Unsere Urlaubszeiten
+# Weihnachten und Silvester
 
 Am 24.12, 27.12. und 31.12.2024 ist die Praxis geschlossen.
 
