@@ -11,7 +11,7 @@ Wir möchten die Wartezeiten für alle Patienten möchlichst kurz halten. Daher 
 Am Einfachsten erhalten sie einen Termin über unsere Online-Terminbuchung.  
 
 
-<a href="{{ site.data.contact.contact_button_link }}" class="button button-primary">Zur Online-Terminbuchung</a>
+<a href="{{ site.data.contact.contact_button_link }}" class="button button-primary" style="text-decoration:none;">Zur Online-Terminbuchung</a>
 
 
 Alternativ können sie Termine auch telefonisch in der Praxis buchen.
