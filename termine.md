@@ -13,7 +13,7 @@ Am Einfachsten erhalten sie einen Termin über unsere Online-Terminbuchung.
 
 ### Notfälle
 	
-Bei lebensbedrohlichen Notfällen wählen sie bitte umgehend die 112. Medizinische Notfälle wie starke Brustschmerzen, Kollaps oder Verdacht auf einen Schlaganfall werden natürlich in der Praxis immer sofort behadelt. Wenn sie sich nicht sicher sind, ob es es bei ihren Beschwerden um 	einen Notfall handelt, melden sie sich telefonisch in der Praxis. Viele Beschwerden können auch bis zur Akutsprechstunde um 11.00 Uhr warten.
+Bei lebensbedrohlichen Notfällen wählen sie bitte umgehend die 112. Medizinische Notfälle wie starke Brustschmerzen, Kollaps oder Verdacht auf einen Schlaganfall werden natürlich in der Praxis immer sofort behadelt. 
   
 
 ### Akuttermine
