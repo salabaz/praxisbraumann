@@ -11,6 +11,8 @@ Wir möchten die Wartezeiten für alle Patienten möchlichst kurz halten. Daher 
 Am Einfachsten erhalten sie einen Termin über unsere Online-Terminbuchung.  
 [**-> Zur Online-Terminbuchung**](https://www.termin-patmed.de/p/praxis-braumann)
 
+Alternativ können sie Termine auf telefonisch in der Praxis buchen.
+
 ### Notfälle
 	
 Bei lebensbedrohlichen Notfällen wählen sie bitte umgehend die 112. Medizinische Notfälle wie starke Brustschmerzen, Kollaps oder Verdacht auf einen Schlaganfall werden natürlich in der Praxis immer sofort behadelt. 
