@@ -12,10 +12,10 @@ Am Einfachsten erhalten sie einen Termin über unsere Online-Terminbuchung.
 
  <div class="call-box-bottom">
         <a href="https://www.termin-patmed.de/p/praxis-braumann" class="button">Zur Online-Terminbuchung</a>
-      </div>
+      </div>  
 
-
-Alternativ können sie Termine auf telefonisch in der Praxis buchen.
+  
+<br>Alternativ können sie Termine auch telefonisch in der Praxis buchen.
 
 ### Notfälle
 	
