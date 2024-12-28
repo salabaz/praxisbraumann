@@ -2,7 +2,7 @@
 title: "Weihnachtsurlaub"
 date: 2024-12-28
 featured: true
-weight: 50
+weight: 1
 layout: service
 ---
 
