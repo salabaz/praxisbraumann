@@ -11,9 +11,12 @@ main:
   - name: "Öffnungszeiten"
     url: "/oeffnungszeiten/"
     weight: 5
+  - name: "Urlaubszeiten"
+    url: "/urlaub/"
+    weight: 6
   - name: "Kontakt"
     url: "/kontakt/"
-    weight: 6
+    weight: 7
 
 footer:
   - name: "Impressum"
