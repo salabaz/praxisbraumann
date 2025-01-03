@@ -22,6 +22,6 @@ layout: page
 | Donnerstag | 8:30 - 12:00 | 14:00 - 17:30          |
 | Freitag    | 8:30 - 12:00 |                        | 
 
-Außerhalb unserer Öffnungszeiten, Nachts und am Wochenende erreichen Sie den ärztlichen Bereitschaftsdienst unter der Nummer 116 117.  
+Außerhalb unserer Öffnungszeiten, nachts und am Wochenende erreichen Sie den ärztlichen Bereitschaftsdienst unter der Nummer 116 117.  
 
 
