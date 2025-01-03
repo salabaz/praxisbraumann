@@ -7,7 +7,7 @@ layout: page
 ---
 
 # Urlaubstermine 2025
-hier finden Sie unserer Urlaubstermine 2025, soweit sie bereits feststehen:
+Hier finden Sie unsere Urlaubstermine für 2025, soweit sie bereits feststehen:
 
 - 12.4.- 20.4.   Osterferien
 - 02.05.         
